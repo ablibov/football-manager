@@ -1,0 +1,336 @@
+# First-team squads 2026/27 as listed on English Wikipedia club articles (CC BY-SA 4.0), fetched 2026-11-15.
+# Format: CLUB|<clubId>|<url>|<as-of date shown on the page>|<extraction: verbatim|summary>
+#         number|GK/DF/MF/FW|nationality|name
+# "summary" = the list was read through an automated page summary — spot-check against the live page.
+# Players listed without a shirt number were omitted (e.g. Kəpəz: Magsad Isayev, DF).
+
+CLUB|qarabag|https://en.wikipedia.org/wiki/Qaraba%C4%9F_FK|2026-08-28|summary
+1|GK|AZE|Shakhruddin Magomedaliyev
+2|DF|BRA|Matheus Silva
+4|DF|HUN|Bence Várkonyi
+5|DF|MOZ|Bruno Langa
+7|MF|FRA|Jaly Mouaddib
+8|MF|MNE|Marko Janković
+9|FW|SWE|Zakaria Sawo
+10|MF|ESP|Joni Montiel
+11|MF|LBN|Reda Khadra
+13|DF|AZE|Behlul Mustafazade
+19|FW|NGR|Taofeek Ismaheel
+20|MF|BRA|Kady Borges
+21|MF|UKR|Oleksiy Kashchuk
+22|FW|AZE|Musa Qurbanlı
+23|GK|BIH|Martin Zlomislić
+25|DF|LVA|Čebrails Makreckis
+29|FW|JAM|Renaldo Cephas
+32|MF|AZE|Hikmat Jabrayilzade
+33|MF|BRA|Diego Rosa
+35|MF|BRA|Pedro Bicalho
+39|DF|FRA|Jérémie Gnali
+44|DF|AZE|Elvin Cafarguliyev
+55|DF|AZE|Badavi Guseynov
+88|MF|POR|Samuel Lobato
+
+CLUB|sabah|https://en.wikipedia.org/wiki/Sabah_FK_(Azerbaijan)|2026-09-01|summary
+1|GK|AZE|Amin Ramazanov
+3|DF|GLP|Steve Solvet
+4|DF|RSA|Aden McCarthy
+5|DF|AZE|Rahman Dashdamirov
+6|MF|AZE|Abdulakh Khaybulayev
+7|MF|UZB|Umarali Rakhmonaliev
+8|FW|NGR|Christian Nwachukwu
+9|FW|AZE|Khayal Aliyev
+10|MF|AZE|Aleksey Isayev
+11|MF|JAM|Kaheem Parris
+13|MF|CRO|Ivan Lepinjica
+16|MF|AZE|Rauf Rustamli
+17|DF|AZE|Tellur Mutallimov
+18|FW|BRA|Carlos Eduardo
+20|FW|RWA|Joy-Lance Mickels
+21|MF|SRB|Veljko Simić
+22|MF|FRA|Zinédine Ould Khaled
+23|FW|FRA|Younes Lachaab
+27|DF|POL|Tymoteusz Puchacz
+33|DF|BRA|Erivaldo Almeida
+34|FW|CUW|Xander Severina
+35|DF|NGR|Japhet Dungus
+37|MF|BRA|Du Queiroz
+80|DF|ALG|Akim Zedadka
+88|MF|POR|Rodrigo Fernandes
+89|MF|AZE|Jafar Mukhtarov
+92|GK|KAZ|Stas Pokatilov
+94|GK|AZE|Ravan Mirzammadov
+95|MF|AZE|Shahin Ibrahimov
+99|FW|GAB|Orphé Mbina
+
+CLUB|neftci|https://en.wikipedia.org/wiki/Neft%C3%A7i_PFK|2026-10-20|summary
+1|GK|AZE|Emil Balayev
+3|DF|AZE|Rufat Abbasov
+5|DF|BRA|Igor Ribeiro
+6|MF|BEN|Sessi D'Almeida
+7|MF|AZE|Emil Safarov
+8|MF|AZE|Emin Mahmudov
+10|MF|VEN|Freddy Vargas
+11|MF|HUN|Alen Skribek
+14|DF|AZE|Elvin Badalov
+17|DF|AZE|Murad Khachayev
+18|MF|NGR|Ifeanyi Mathew
+20|MF|BRA|Gustavo Klismahn
+22|MF|SUR|Denzel Jubitana
+24|DF|ESP|Moustapha Seck
+26|FW|NGR|Adeleke Akinyemi
+27|MF|SRB|Dragoljub Savić
+29|FW|SVK|Ľubomír Tupta
+33|MF|BRA|Breno Almeida
+55|DF|GLP|Andreaw Gravillon
+70|MF|UKR|Andriy Shtohrin
+77|DF|MLI|Falaye Sacko
+88|MF|CRO|Vicko Ševelj
+93|GK|AZE|Rza Jafarov
+97|FW|SEN|Bassala Sambou
+
+CLUB|turan-tovuz|https://en.wikipedia.org/wiki/Turan_Tovuz|2026-07-13|verbatim
+1|GK|TJK|Oleg Baklov
+3|DF|BRA|Henrique
+4|DF|AZE|Rahil Mammadov
+5|DF|PAN|Roderick Miller
+7|DF|POR|Jorge Silva
+8|MF|CPV|David Tavares
+10|MF|AZE|Khayal Najafov
+11|FW|POR|Diogo Balau
+13|GK|AZE|Mehman Haciyev
+15|DF|TOG|Emmanuel Hackman
+17|MF|AZE|Ragim Sadykhov
+19|MF|ESP|Roberto Olabe
+21|MF|FRA|Steeve Beusnard
+23|MF|ESP|Álex Serrano
+25|DF|MDA|Denis Marandici
+28|MF|SRB|Aleksa Janković
+32|DF|COL|Haiderson Hurtado
+33|DF|SRB|Filip Damjanović
+35|GK|RUS|Aleksei Kenyaykin
+77|FW|SEN|Ibrahima Wadji
+88|DF|AZE|Faiq Hacıyev
+90|FW|BRA|Jô
+
+CLUB|zira|https://en.wikipedia.org/wiki/Zira_FK|2026-07-21|summary
+1|GK|BRA|Maycon Cleiton
+2|DF|AZE|Amin Seydiyev
+3|MF|CIV|Dimitri Legbo
+4|DF|BRA|Ruan Renato
+5|DF|RWA|Ange Mutsinzi
+6|MF|AZE|Hacıağa Hacılı
+7|FW|TUR|Eren Aydın
+8|MF|AZE|İsmayıl İbrahimli
+9|FW|GEO|Davit Volkovi
+10|MF|GEO|Giorgi Papunashvili
+11|MF|AZE|Aykhan Guseynov
+13|GK|AZE|Aydın Bayramov
+14|DF|AZE|Elchin Alijanov
+16|MF|BRA|Ktatau
+17|MF|POR|Vierinha
+20|DF|NIG|Issa Djibrilla
+21|MF|MOZ|Guima
+23|MF|JAM|Damaine Smith
+25|DF|BRA|Henrique
+27|FW|CIV|Bayéré Junior Loué
+29|MF|CIV|Chris Digbeu
+32|MF|AZE|Qismət Alıyev
+33|DF|MAR|Mehdi Mchakhchekh
+41|GK|AZE|Anar Nazirov
+48|MF|AZE|Ramiz Muradov
+57|DF|AZE|Yusif Haciyev
+72|GK|AZE|Huseynali Guliyev
+77|FW|BLR|Yegor Bogomolsky
+87|FW|TOG|Abdoul Aziz Batibie
+
+CLUB|sumqayit|https://en.wikipedia.org/wiki/Sumgayit_FK|2026-07-29|summary
+1|GK|BRA|Jeimes
+3|DF|AZE|Hojjat Haghverdi
+4|DF|PAK|Easah Suliman
+5|DF|BRA|Renan Santana
+7|FW|AZE|Rustam Akhmedzade
+8|MF|AZE|Sabuhi Abdullazade
+9|FW|BRA|Jeam
+10|MF|DOM|Ronaldo Vásquez
+11|FW|BFA|Mamady Bangré
+12|GK|AZE|Aftandil Arikhov
+16|GK|SWE|Marko Johansson
+17|DF|AZE|Nihad Ahmedzade
+19|MF|ISR|Roi Kahat
+20|DF|AZE|Aykhan Süleymanly
+21|DF|POR|Thiago Almeida
+22|GK|AZE|Khayal Feyzullayev
+27|DF|FRA|Imani Barker
+29|MF|AZE|Emil Mustafayev
+42|MF|BFA|Cedric Badolo
+55|MF|BRA|Lucas Black
+60|MF|BDI|Trésor Mossi
+64|DF|AZE|Kanan Feyziyev
+66|MF|AZE|Ruslan Aliyev
+71|MF|JPN|Masaki Murata
+75|DF|AZE|Nadir Orujov
+80|DF|BRA|Keffel
+97|FW|AZE|Vüsal Pashayev
+
+CLUB|samaxi|https://en.wikipedia.org/wiki/%C5%9Eamax%C4%B1_FK|2026-08-18|summary
+1|GK|POR|Ricardo Fernandes
+2|DF|AZE|Fariz Xeyrullayev
+3|DF|POR|João Oliveira
+4|DF|POR|Rui Pacheco
+5|DF|AZE|Emin Rüstəmov
+7|MF|AZE|Emil Süleymanov
+8|MF|ISR|David Dego
+9|FW|GEO|Tornike Akhvlediani
+10|MF|AZE|Edqar Adilkhanov
+11|MF|MAR|Ayman Bouali
+13|MF|POR|Ricardo Apolinário
+14|FW|AZE|Ugur Cahangirov
+17|DF|AZE|Sənan Muradlı
+19|FW|NGR|Abdullahi Shuaibu
+25|MF|POR|Filipe Marques
+52|DF|BEN|Abdoul Rachid Moumini
+62|GK|AZE|Abdulla Seyidahmadov
+66|MF|AZE|Ceyhun Bağırzadə
+77|MF|AZE|Okan Tahmazli
+80|MF|AZE|Habib Ismayilov
+88|DF|AZE|Hacıəli Şirəliyev
+96|GK|AZE|Nijat Qaragozlu
+97|MF|AZE|Oruc Mammadov
+
+CLUB|kapaz|https://en.wikipedia.org/wiki/Kapaz_PFK|2026-09-13|summary
+1|GK|POR|Rogério
+2|DF|AZE|Arzu Atakishiyev
+3|MF|MLI|Mahamadou Ba
+4|DF|GEO|Mate Abuladze
+5|DF|AZE|Hüseyn Babayev
+6|MF|AZE|Vadim Abdullayev
+7|MF|AZE|Namiq Ələsgərov
+8|MF|AZE|Şakir Seyidov
+9|FW|ZAM|Kenneth Kalunga
+10|MF|AZE|Rahman Hajiyev
+11|MF|MDA|Viktor Stina
+14|DF|BFA|Adama Fofana
+15|FW|AZE|Cavad Karimov
+17|DF|AZE|Umid Samadov
+20|DF|AZE|Rafael Maharramli
+21|FW|POR|Asumah Abubakar
+23|MF|AZE|Raul Isaqov
+27|MF|BEL|Desmond Acquah
+29|DF|POR|Diogo Verdasca
+33|FW|NGR|Benito
+34|DF|AZE|Ürfan Abbasov
+55|MF|CIV|Donald Dongo
+66|DF|KOS|David Domgjoni
+70|MF|AZE|Shahnur Ismayilov
+77|MF|AZE|Nicat Mammadov
+81|GK|AZE|Elgün Bayramov
+94|GK|AZE|Rashad Azizli
+99|MF|AZE|Ali Samadov
+
+CLUB|qabala|https://en.wikipedia.org/wiki/Qabala_%C4%B0K|2026-10-03|summary
+1|GK|AZE|Səlahət Ağayev
+2|DF|AZE|Aqşin Yaqubov
+3|DF|BRA|Edson Eduardo
+4|MF|AZE|Elvin Camalov
+5|DF|COD|Nathan Monzango
+6|MF|ESP|Jaime Sierra
+7|FW|POR|Bruno Silva
+8|MF|ALB|Endri Çekiçi
+9|FW|SUI|Karim Rossi
+10|MF|AZE|Shahin Shahniyarov
+11|MF|AZE|Asif Mammadov
+12|DF|CIV|Kouya Mabea
+13|DF|AZE|Nicat Aliyev
+16|DF|GHA|Isaac Amoah
+17|MF|AZE|Qadir Ramazanov
+21|FW|AZE|Ziya Shakarkhanov
+22|MF|AZE|Farid Isgandarov
+23|FW|BRA|Raphael Utzig
+24|FW|NGR|Ismahil Akinade
+26|DF|AZE|Elnur Mustafayev
+27|MF|AZE|Eshqin Ahmadov
+32|GK|BRA|Arthur Motta
+44|DF|AZE|Salman Alasgarov
+66|DF|AZE|Nuqay Rashidov
+74|DF|AZE|Suleyman Damadayev
+80|FW|NGR|Meshack Ubochioma
+81|DF|AZE|Samir Ağayev
+94|GK|AZE|Habib Hushanov
+
+CLUB|araz-naxcivan|https://en.wikipedia.org/wiki/Araz-Nax%C3%A7%C4%B1van_PFK|2026-08-13|verbatim
+1|GK|BRA|Arthur
+2|DF|AZE|Abdulla Rzayev
+5|DF|CRO|Luka Dumančić
+6|MF|CPV|Patrick Andrade
+7|MF|AZE|Rövlan Muradov
+8|MF|AZE|Mustafa Ahmadzada
+9|FW|AZE|Agadadash Salyanski
+10|FW|FRA|Charles Boli
+11|FW|GUI|Mohamed Mara
+12|DF|BRA|Bruno Franco
+13|MF|AZE|Qabil Alizada
+14|FW|AZE|Ulvi Isgandarov
+17|DF|BFA|Issouf Paro
+19|FW|BDI|Sudi Abdallah
+21|FW|AZE|Ibrahim Piriyev
+22|DF|AZE|Rashad Hasanov
+23|MF|ESP|Alberto Fernández
+26|DF|AZE|Omar Buludov
+27|DF|BIH|Bojan Letić
+29|MF|AZE|Ceyhun Nuriyev
+36|MF|GUI|Mamadou Kané
+77|MF|AZE|Nihat Mehralıyev
+99|GK|AZE|Tarlan Ahmadli
+
+CLUB|imisli|https://en.wikipedia.org/wiki/%C4%B0mi%C5%9Fli_FK|2026-07-17|verbatim
+1|GK|AZE|Yusif İmanov
+3|DF|AZE|Tuncay Yusifli
+5|MF|AZE|Idris Ingilabli
+6|MF|GHA|Yaw Moses
+7|MF|BRA|Juninho
+8|MF|COL|Juan Hernandez
+9|FW|POR|Diogo Almeida
+10|FW|POR|Diogo Cardoso
+11|MF|AZE|Vüsal Ganbarov
+13|DF|BRA|Rafael Viegas
+14|DF|AZE|Bekhtiyar Hasanalizade
+17|FW|AZE|Seykhan Faracov
+19|DF|AZE|Azər Salahlı
+22|GK|AZE|Sadiq Mammadzada
+23|DF|BRA|Diogo Rollo
+29|DF|COL|Edwin Banguera
+30|MF|AZE|Xalil Mürsalli
+42|MF|CIV|Yvan Senin
+70|DF|AZE|Mehdi Tahirov
+77|MF|AZE|Farid Nabiyev
+80|MF|ANG|Deco
+88|GK|AZE|Aykhan Abbaszadeh
+
+CLUB|safa|https://en.wikipedia.org/wiki/Shafa_Baku_FK|2026-11-08|verbatim
+1|GK|AZE|Nicat Mehbalıyev
+3|DF|AZE|Tarlan Guliyev
+4|DF|GAM|Maudo Jarjue
+5|DF|AZE|Arsen Agjabayov
+6|MF|AZE|Farid Yusifli
+7|FW|CAN|Tray Fuller
+8|MF|ROU|Vlad Pop
+9|FW|BRA|Luis Felipe
+10|MF|NED|Dylan Mertens
+11|DF|ROU|Andrei Dragu
+12|GK|AZE|Alirza Müshtabazada
+17|MF|CIV|Moussa Guel
+18|FW|GUI|Bafodé Dansoko
+19|DF|AZE|Ramin Nasirli
+20|MF|AZE|Elmir Tagiyev
+21|DF|AZE|İsmayıl Zülfüqarlı
+22|DF|FRA|Oumar Diaw
+23|FW|AZE|Nahid Aliyev
+28|DF|AZE|Murad Musayev
+34|DF|NED|Christopher Mamengi
+39|MF|AZE|Eltun Babazada
+42|FW|AZE|Elnur Jafarov
+55|DF|AZE|Rauf Hüseynli
+83|MF|AZE|Nihad Quliyev
+96|GK|AZE|Aykhan Alizada
+97|GK|POR|Tiago Silva
+99|GK|AZE|Mammad Hüseynov

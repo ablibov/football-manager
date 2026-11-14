@@ -1,0 +1,33 @@
+# Production-like stack. Copy .env.example to .env, set POSTGRES_PASSWORD and DJANGO_ALLOWED_HOSTS,
+# then `docker compose up -d --build` and open http://localhost:8000
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: azpfl
+      POSTGRES_USER: azpfl
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env}
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U azpfl"]
+      interval: 5s
+      retries: 10
+  web:
+    build: .
+    depends_on:
+      db: { condition: service_healthy }
+    ports: ["8000:8000"]
+    environment:
+      POSTGRES_DB: azpfl
+      POSTGRES_USER: azpfl
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env}
+      POSTGRES_HOST: db
+      DJANGO_ALLOWED_HOSTS: ${DJANGO_ALLOWED_HOSTS:-localhost,127.0.0.1}
+      DJANGO_CSRF_TRUSTED_ORIGINS: ${DJANGO_CSRF_TRUSTED_ORIGINS:-}
+      AZPFL_HTTPS: ${AZPFL_HTTPS:-0}
+      DJANGO_SUPERUSER_USERNAME: ${DJANGO_SUPERUSER_USERNAME:-}
+      DJANGO_SUPERUSER_PASSWORD: ${DJANGO_SUPERUSER_PASSWORD:-}
+    volumes: [appdata:/data]
+volumes:
+  pgdata:
+  appdata:

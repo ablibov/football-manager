@@ -1,0 +1,10 @@
+{
+  "name": "Caspian Match Simulator",
+  "short_name": "Caspian",
+  "description": "An independent football match simulation platform featuring Azerbaijani football clubs, customizable lineups, tactical formations, and realistic match simulations.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#060b0a",
+  "theme_color": "#10b981",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
